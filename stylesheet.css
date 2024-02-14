@@ -1,0 +1,17 @@
+html{
+body{
+    color: rgb(234, 252, 35);
+    background-color: black;
+}
+p{
+    color: black;
+    background-color: gold;
+    font-style: oblique;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+div{
+    background-image: linear-gradient( red,yellow);
+    height:5cm;
+    width: 100%;
+}
+}
